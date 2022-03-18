@@ -6,7 +6,7 @@ This repo contents the knowledge I have learnt in University of Auckland, Course
 And this repo is part of my Assignment 1 for STATS 220.  
 
 ## First Mission
-The first mission is a meme I have made by using "R Studio". It is shown as a markdown fine on [Github]
+The first mission is a meme I have made by using "R Studio". It is shown as a markdown fine on [Github](
 
 
 ## About me
