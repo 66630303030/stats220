@@ -14,14 +14,14 @@ I am an international student from China. I am a third year student at Universit
 Statistics and Economics. 
 
 ## Hobbies
-1.Piano 🎹. 
+1.*Piano* 🎹. 
 
-2.Swimming 🏊‍♀️. 
+2.*Swimming* 🏊‍♀️. 
 
-3.Reading 📖. 
+3.*Reading* 📖. 
 
 
 ## My Favourite Animals
--Cats.   
+-**Cats**.   
 
--Rabbits
+-**Rabbits**
