@@ -6,3 +6,5 @@
   Usually, I feel nervous and stressful on Mondaly mornings, but relax and happy on Friday evenings.
   
 3)Because my favourite animal is rabbits. So I have using a happy rabbit and a crying rabbit as part of my meme. 
+
+![](my_meme.png)
