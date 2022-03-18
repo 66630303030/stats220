@@ -1,5 +1,5 @@
 # Welcome to my STATS 220 Github Page!
-# Introduce to my meme
+# Introduction to my meme
 1)This meme is made by R studio by using the package "magick"
 
 2)This meme has show the comparison between my mood on Friday evening and Monday Morning.
