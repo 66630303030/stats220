@@ -19,5 +19,5 @@ Statistics and Economics.
 3.Reading 📖
 
 ## My Favourite Animals
--Cats
+-Cats. 
 -Rabbits
